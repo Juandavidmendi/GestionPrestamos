@@ -1,0 +1,4 @@
+RewriteEngine On /*habilita la sobreescritura
+Options All - Indexes //ocultar archivos del navegador
+
+
